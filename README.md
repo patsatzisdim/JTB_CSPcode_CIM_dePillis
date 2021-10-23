@@ -23,4 +23,6 @@ After running the code outputs the following:
 4) The folder ADiag, which contains all the above indices API, TPI, Po and II from (ii)-(v) sorted in descedning order and devided per mode. In additions, each *Mod1.dat* - *Mod4.dat* files contain all the CSP data sorted in descedning order per mode, but printed at selected timepoints, as defined in SUB_main.f.
 5) The absolute error of the constraint solution with respect to the solution at *ASIMAbsErr.dat*
 
+At the end of the run you can see the ending tumor cell population of the simulation at the terminal.
 
+Please use with care and contact me for further assistance at patsatzisdim@gmail.com
